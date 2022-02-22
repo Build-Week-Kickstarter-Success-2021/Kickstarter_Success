@@ -64,7 +64,7 @@ SOFTWARE.
 
 ---
 
-#### contact information
+#### Contact Information
 
 ##### Zachary Rock
 
